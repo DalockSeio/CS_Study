@@ -28,9 +28,9 @@ REST API는 REST 아키텍쳐 스타일을 따르는 API를 말하며 RESTful로
 
 ## REST란?
 
-    HTTP URI를 통해 자원을 명시하고, 
-    HTTP Method(POST, GET, PUT, DELETE)를 통해 해당 자원에 대한 
-    CRUD Operation(Create, Resad, Update, Delete)을 적용하는 것
+HTTP URI를 통해 자원을 명시하고, 
+HTTP Method(POST, GET, PUT, DELETE)를 통해 해당 자원에 대한 
+CRUD Operation(Create, Resad, Update, Delete)을 적용하는 것
 
 ## RESTful API의 주요 특징과 원칙
 
