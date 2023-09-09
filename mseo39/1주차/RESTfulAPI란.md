@@ -1,7 +1,11 @@
 ### ❓RESTful API 란?
-API는 애플리케이션이나 디바이스가 서로 간에 연결하여 통신할 수 있는 방법을 정의하는 규칙세트이다 REST API는 REST 아키텍처 스타일의 디자인 원칙을 준수하는 API이다 이러한 이유로 REST API를 RESTful API라고도 한다
+API는 애플리케이션이나 디바이스가 서로 간에 연결하여 통신할 수 있는 방법을 정의하는 것입니다
+REST API는 REST 아키텍처 스타일의 디자인 원칙을 준수하는 API이고 인터넷 식별자 URI와 HTTP를 기반으로 합니다 자원은 URI로 표현되는데 자원이 가리키는 것은 명사로 표현 되어야 하고 행위는 HTTP Method로 표현하여 GET(조회), POST(생성), PUT(기존 entity 전체 수정), PATCH(시존 entity 일부 수정), DELETE(삭제)을 분명한 목적으로 사용됩니다
 
-REST란 REpresentational State Transfer의 약자이다
++ REST의 가장 중요한 특성은 각 요청이 어떤 정보나 동작을 위한 것인지 그 모습 자체만으로 추론이 가능해야 합니다 
++ REST는 해당 자원에 대한 상태, 정보를 주고 받는 것을 의미하고 HTTP Method를 활용해서 행위를 포함합니다
+
+REST란 REpresentational State Transfer(표현된 자원의 상태)의 약자이다
 여기에 ~ful이라는 형용사 어미를 붙여 ~한 API라는 표현으로 사용된다
 즉, REST의 기본 원칙을 성실히 지킨 서비스 디잔인은 RESTFul하다라고 표현할 수 있다
 
