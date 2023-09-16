@@ -1,0 +1,14 @@
+<민서의 깃허브 순서>
+git add .         //내가 있는 위치 아래에 있는 파일을 올림               
+git commit -m "create test_filename"
+git pull origin master
+git push sejin01 master
+
+
+
+git add -A         //수정되거나 추가한 모든 파일 올림
+
+
+Web(깃허브에서)
+Pull request 초록색 버튼 계속 누르기 
+marge pull request가 마지막에 뜨고 그걸 누르면 완전 끝
