@@ -4,7 +4,7 @@
 
 model-view-controller를 뜻하는 것으로, 소프트웨어 디자인 패턴이다.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea7e2bec-58fd-407d-ace0-0294caef4726/0aa03279-2a2a-427d-bd7a-a4c56a215d07/Untitled.png)
+![image](https://github.com/reasonyi/CS_Study/assets/66377159/faf39926-9af5-42d3-93f3-6181abb76c9e)
 
 사용자가 Controller를 조작하면, Controller는 Model을 통해 데이터를 가져오고, 그 데이터를 바탕으로 View를 통해 시각적 표현을 제어하여 사용자에게 전달한다.
 
