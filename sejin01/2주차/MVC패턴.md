@@ -3,7 +3,7 @@
 이 패턴은 주로 웹 및 데스크톱 응용 프로그램 개발에서 많이 사용되며, 응용 프로그램의 구성 요소를 분리하여 유지보수성과 확장성을 향상시키는 데 도움을 준다.   
 
 ### MVC 패턴의 구성 요소   
-<img src="./MVC_Pattern.png" width="550px" height="350px" title="MVC" alt="MVC"></img><br/>
+<img src="./MVC Pattern.png" width="550px" height="350px" title="MVC" alt="MVC"></img><br/>
 1. **모델(Model)**   
 모델은 응용 프로그램의 데이터와 비즈니스 로직을 나타낸다.   
 데이터베이스와 상호작용하거나 데이터를 조작하며, 데이터의 상태를 관리한다.   
