@@ -31,3 +31,16 @@ C언어에서 malloc()로 할당되는 영역
 
 ## 운영체제에서 프로세스와 스레드의 구조   
 <img src="./os_process_thread.jpg" width="700px" height="350px" title="os_process_thread" alt="os_process_thread"></img><br/>   
+
+## PCB   
+: OS가 프로세스를 제어하기 위해 프로세스 정보를 저장함   
+
+## PCB 저장 정보   
+- 프로세스의 상태   
+- PID(ProcessID) (부모 PID, 자식PID)   
+- PC(Program Counter) : 다음 실행할 명령어의 주소   
+- 레지스터   
+- 프로세스의 우선순위   
+- 메모리 제한   
+- 열린 파일 목록   
+- 등등..   
