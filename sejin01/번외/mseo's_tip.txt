@@ -1,6 +1,6 @@
 <민서의 깃허브 순서>
 git add .         //내가 있는 위치 아래에 있는 파일을 올림               
-git commit -m "create test_filename"
+git commit -m "change memory.md"
 git pull origin master
 git push sejin01 master
 
