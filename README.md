@@ -100,6 +100,7 @@
 <div markdown="7">       
 
 * 1장 시험문제 만들기(중간고사 기간)
+    
     ✅문제내는 부분 (주차별로 3문제씩)
 
     → 10.29에 답안 공유하기
@@ -128,7 +129,7 @@
 </details>
 
 <details>
-<summary>8주차(2023.10.22~2023.10.28)</summary>
+<summary>7-1주차(2023.10.22~2023.10.28)</summary>
 <div markdown="8">       
 
 * 2.1 네트워크 계층
@@ -137,6 +138,50 @@
   * 2.2.2 TCP 핸드셰이킹
   * TCP 제어 방법
 * 1장 시험문제 풀기
+
+</div>
+</details>
+
+<details>
+<summary>8주차(2023.10.30~2023.11.04)</summary>
+<div markdown="8">       
+
+* 2.3 HTTP
+* 2.4 REST
+
+</div>
+</details>
+
+<details>
+<summary>9주차(2023.11.06~2023.11.11)</summary>
+<div markdown="9">       
+
+* 3.1 데이터베이스의 종류
+* 3.2 관계형 데이터베이스
+* 3.3 트랜잭션
+* 3.4 조인
+
+</div>
+</details>
+
+<details>
+<summary>10주차(2023.11.13~2023.11.18)</summary>
+<div markdown="10">       
+
+* 4.1 복잡도
+* 4.2 선형 자료구조
+* 4.3 비선형 자료구조
+
+</div>
+</details>
+
+<details>
+<summary>11주차(2023.11.20~2023.11.25)</summary>
+<div markdown="11">       
+
+* 5.1 정렬 알고리즘
+* 최소 신장 트리
+* 최단 거리 알고리즘
 
 </div>
 </details>
